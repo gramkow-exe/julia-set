@@ -4,7 +4,7 @@ MAX_ITERATION = 1000
 POINTS = []
 WIDTH = 4000
 HEIGHT = 4000
-c = complex(0.345, 0.08)
+c = complex(-0.54, 0.54)
 
 # -------------------- JULIA SET -----------------------------
 
@@ -70,7 +70,7 @@ start_time = time()
 # Set calculation and cleaning
 set = calculate_set()
 normalized_set = normalize(set')
-colored_image = apply_colormap(normalized_set, x -> get(ColorSchemes.viridis, x))
+colored_image = apply_colormap(normalized_set, x -> get(ColorSchemes.vikO50, x))
 
 # Image saving
 save("julia.png", colored_image)
