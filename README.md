@@ -24,7 +24,7 @@ To execute the program just run
 
 ![julia set 1](https://i.imgur.com/NO3VDzl.jpeg)
 - 200 iterations on c = -0.4 + 0.59i
-- Color scheme: flag
+- Color scheme: RdPu
 - Elapsed time: 11.62s
 
 ---
