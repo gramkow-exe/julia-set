@@ -5,8 +5,8 @@ Visualizing julia set on my first contact with the julia lang
 ## Features
 
 - Multi-threading
-- Image generation
-- Color map
+- Image Generation
+- Color Mapping
 
 ## 📦 Requitements
 
