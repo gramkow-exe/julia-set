@@ -27,6 +27,8 @@ To execute the program just run
 - Color scheme: flag
 - Elapsed time: 11.62s
 
+---
+
 ![html writter](https://i.imgur.com/eHUJFPL.jpeg)
 - 1000 iterations on c = 0.355534 - 0.337292i
 - Color scheme: vikO50
