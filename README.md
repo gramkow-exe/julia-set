@@ -15,7 +15,7 @@ Visualizing julia set on my first contact with the julia lang
 
 ## 🚀 Run
 
-To execute the program just run
+To execute the program just run in the folder of any example or create your own
 ```
   julia --threads 4 main.jl
 ```
